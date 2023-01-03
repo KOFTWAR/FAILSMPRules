@@ -7,22 +7,24 @@ __同时，不建议在游戏窗口标题写关于1.16.x一下（不含1.16.x）
 1.禁止使用辅助类型模组（这里指对其他人不公平的模组，翻译成人话就是挂），满足无可置疑原则两次，将会被封禁（ban）+取消白名单处理，被管理员封禁以后不得再申请白名单，不得再开小号进群、开小号申请白名单  
 这里列一个不全的列表（欢迎补充，我想，开过挂的应该对这些东西挺熟的）：  
 
-- KillAura
+- KillAura/Aura
+- AntiKnockBack/Velocity
 - Tracer
-- HighJump
-- NameTag
+- Chams/EntityESP/PlayerESP/Nametags
+- HighJump,LongJump
 - Speed
 - GUIMove
 - ElytraFly+
 - NoFall
 - Step
+- Flight/Fly/Glide
 
-3.明令禁止使用的模组（使用这些模组不管你有没有违反其余规则都会被封禁）  
+3.明令禁止使用的客户端（使用这些模组不管你有没有违反其余规则都会被封禁）  
 
 - Meteor Client  
 - Wurst Client  
 - Impact Client（以及其注入原版端后的产物）  
-
+- Ghost Client（GC）注入后修改过的游戏
 2.禁止虚张声势自己开挂了，如果演的太真，导致管理员误判，封禁后不予解封  
 3.禁止盗号，无论是QQ号还是游戏账号（特指不经过号主同意就登陆他（她）的账号）违者直接ban+飞机票  
 4.禁止恶意卡服，情节严重的直接ban  
